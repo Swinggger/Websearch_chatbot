@@ -2,7 +2,7 @@
 This is an introduction to this chat robot called Emma.  
 Here is what she can do for you:  
 - Support real-time trending news everyday  
-- Search millions of webpages and imgaes  
+- Search millions of webpages and images  
 - Show web's information including not only title but also body and image  
 - From politics to sports and hundreds of entertainments  
 ## Usage  
