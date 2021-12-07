@@ -10,14 +10,14 @@ Here is what she can do for you:
 After finding Emma through **BotFather** in **Telegram**, click '*start*' or text '*/start*' to start Emma.  
 Now you can have a little chat with her!
 
-![img](https://github.com/Swinggger/Websearch_chatbot/blob/master/SampleFile/Find_emma.gif)
+![img1](https://github.com/Swinggger/Websearch_chatbot/blob/master/SampleFile/Find_emma.gif)
 ### Search Related Webpages/News  
-Typing **keywords** about what you wanna have a look! As is shown below, search 'Taylor Swift'.  
-Take a moment, Emma will show you something fun from her news! ʕ •ᴥ•ʔ  
+Typing **keywords** about what you wanna have a look! As is shown below, search '*Taylor Swift*'.  
+Take a moment, Emma will show you something bright from her news! ʕ •ᴥ•ʔ  
 
 ![img2](https://github.com/Swinggger/Websearch_chatbot/blob/master/SampleFile/Search.gif)
 ### Get More Details!  
-If you wanna choose one news/ webpage from supported stuffs, you can simply ask for further  
+If you wanna choose one news/ webpage from supported stuffs, you could simply ask for further  
 detailed information through typing **according number** barring from the need to text total title here!
 
 ![img3](https://github.com/Swinggger/Websearch_chatbot/blob/master/SampleFile/Choice.gif)
